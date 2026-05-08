@@ -1,8 +1,8 @@
 ## End-to-End Machine Learning Project
-Starter data science project scaffold.
+Machine Learning project scaffold.
 
 ## Setup
-1. Create/activate your virtual environment:
+1. Create/activate virtual environment:
    - `source .venv/bin/activate`
 2. Install dependencies:
    - `pip install -r requirements.txt`
