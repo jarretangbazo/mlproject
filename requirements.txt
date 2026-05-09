@@ -9,4 +9,6 @@ jupyterlab
 notebook
 ipykernel
 statsmodels
--e .
+xgboost
+catboost
+#-e .
