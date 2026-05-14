@@ -11,4 +11,5 @@ ipykernel
 statsmodels
 xgboost
 catboost
+pyjanitor
 #-e .
