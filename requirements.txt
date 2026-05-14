@@ -1,4 +1,4 @@
-# Requires Python == 3.14.*
+# Requires Python == 3.11.*
 numpy
 pandas
 scipy
@@ -12,4 +12,4 @@ statsmodels
 xgboost
 catboost
 pyjanitor
-#-e .
+-e .
